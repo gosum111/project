@@ -3,7 +3,7 @@ import cv2
 import mediapipe as mp
 from utils import calculate_angle
 
-# นำเข้าท่าทางต่างๆ จากไฟล์ที่เราแยกไว้
+# นำเข้าท่าทางต่างๆ จากไฟล์ที่เราแยกไว้ 555
 from squat_logic import SquatCounter
 from pushup_logic import PushupCounter
 
